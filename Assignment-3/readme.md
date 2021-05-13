@@ -4,8 +4,13 @@ Use GAN network to generate new images using Cifar100 dataset and Obtain the gen
 Also, Generated model will be saved after each 10 epoch. 
 
 <br/><b>Output:</b><br />
-Generated images after 10 epoch-<br /> ![Generated images after 10 epoch](https://github.com/BirvaPatel/Deep-Learning/blob/main/Assignment-3/generated_plot_e10.png)
+
+Generated images after 10 epoch-<br /> ![Generated images after 10 epoch](https://github.com/BirvaPatel/Deep-Learning/blob/main/Assignment-3/generated_plot_e010.png)
+
+
 Generated images after 100 epoch-<br /> ![Generated images after 100 epoch](https://github.com/BirvaPatel/Deep-Learning/blob/main/Assignment-3/generated_plot_e100.png)
+
+
 Generated images after 200 epoch-<br /> ![Generated images after 200 epoch](https://github.com/BirvaPatel/Deep-Learning/blob/main/Assignment-3/generated_plot_e200.png)
 
 LSTM_DIS.py:<br/>
