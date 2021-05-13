@@ -5,18 +5,18 @@ Also, Generated model will be saved after each 10 epoch.
 
 <br/><b>Output:</b><br />
 
-Generated images after 10 epoch-<br /> ![Generated images after 10 epoch](https://github.com/BirvaPatel/Deep-Learning/blob/main/Assignment-3/generated_plot_e010.png)
+Generated images after 10 epoch-<br /> ![Generated images after 10 epoch](https://github.com/BirvaPatel/Deep-Learning/blob/main/Assignment-3/images/generated_plot_e010.png)
 
 
-Generated images after 100 epoch-<br /> ![Generated images after 100 epoch](https://github.com/BirvaPatel/Deep-Learning/blob/main/Assignment-3/generated_plot_e100.png)
+Generated images after 100 epoch-<br /> ![Generated images after 100 epoch](https://github.com/BirvaPatel/Deep-Learning/blob/main/Assignment-3/images/generated_plot_e100.png)
 
 
-Generated images after 200 epoch-<br /> ![Generated images after 200 epoch](https://github.com/BirvaPatel/Deep-Learning/blob/main/Assignment-3/generated_plot_e200.png)
+Generated images after 200 epoch-<br /> ![Generated images after 200 epoch](https://github.com/BirvaPatel/Deep-Learning/blob/main/Assignment-3/images/generated_plot_e200.png)
 
 LSTM_DIS.py:<br/>
 
 LSTM for time serious problem recognition. Here I have used Disneyland stock(DIS) price dataset.
 
 <b>Output:</b>
-![LSTM Prediction](https://github.com/BirvaPatel/Deep-Learning/blob/main/Assignment-3/OutputGraph.png)
+![LSTM Prediction](https://github.com/BirvaPatel/Deep-Learning/blob/main/Assignment-3/images/OutputGraph.png)
 
